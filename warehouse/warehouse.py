@@ -10,9 +10,9 @@ import streamlit as st
 import pandas as pd
 from io import BytesIO
 import re
-from openpyxl.styles import PatternFill
+#from openpyxl.styles import PatternFill
 from openpyxl import load_workbook
-from openpyxl.utils import get_column_letter
+#from openpyxl.utils import get_column_letter
 
 # st.image("C:/Users/FC/Downloads/Scripts/fclogo.jfif", width=100)
 st.title("Daily Warehousing")
